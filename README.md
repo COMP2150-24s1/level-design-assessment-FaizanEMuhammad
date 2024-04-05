@@ -43,8 +43,8 @@ The acid and checkpoint were introduced at the start as it helps the player unde
  ![Storyboard of the Acid and Checkpoints interaction!](DocImages/AcidandCheckpoint.png)
 
 ### 2.3. Chompers
-
-
+The chomper was introduced to the player at this stage as the player has no choice other than passing through the chomper, which also helps them learn that a melee enemy decreases the player's health by one heart.
+![Storyboard of the Chomper interaction!](DocImages/Chomper.png)
 ### 2.4. Health Pickups
 
 ### 2.5. Keys
