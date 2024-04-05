@@ -50,10 +50,11 @@ The chomper was introduced to the player at this stage as the player has no choi
 The passthrough platform and the health pickup are introduced in this section as the player would have already lost some health from the acid and the chomper so after accessing the health pickup they will regain some health. The passthrough platform hints the player on accessing such pickups when they are below the floor. 
 
 ![Storyboard of the Passhtrough Floor and the health pickup interaction!](DocImages/PassthroughfloorAndHealthpickup.png)
-### 2.5. Keys
+### 2.5. Keys and Moving Platforms
+The moving platform was introduced in this part as it made the player learn that they must time their movement to escape this section. The key was there as small goal that the player has to achieve by overcoming the challange of the moving platform.
 
-### 2.6. Moving Platforms
-
+![Storyboard of the Passhtrough Floor and the health pickup interaction!](DocImages/MovingplatformAndKeys1.png)
+![Storyboard of the Passhtrough Floor and the health pickup interaction!](DocImages/MovingplatformAndKeys2.png)
 
 ### 2.8. Spikes
 
