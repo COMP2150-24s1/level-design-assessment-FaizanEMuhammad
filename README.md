@@ -37,22 +37,23 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid and 2.2. Checkpoints
+### 2.1. Acid and Checkpoints
 The acid and checkpoint were introduced at the start as it helps the player understand at the beginning that when they die they start at their last checkpoint and acid aids in that. 
 
  ![Storyboard of the Acid and Checkpoints interaction!](DocImages/AcidandCheckpoint.png)
 
-### 2.3. Chompers
+### 2.2. Chompers
 The chomper was introduced to the player at this stage as the player has no choice other than passing through the chomper, which also helps them learn that a melee enemy decreases the player's health by one heart.
+
 ![Storyboard of the Chomper interaction!](DocImages/Chomper.png)
-### 2.4. Health Pickups
+### 2.3. Health Pickups and Passthrough Platform
 The passthrough platform and the health pickup are introduced in this section as the player would have already lost some health from the acid and the chomper so after accessing the health pickup they will regain some health. The passthrough platform hints the player on accessing such pickups when they are below the floor. 
+
 ![Storyboard of the Passhtrough Floor and the health pickup interaction!](DocImages/PassthroughfloorAndHealthpickup.png)
 ### 2.5. Keys
 
 ### 2.6. Moving Platforms
 
-### 2.7. Passthrough Platforms
 
 ### 2.8. Spikes
 
