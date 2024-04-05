@@ -53,16 +53,13 @@ The passthrough platform and the health pickup are introduced in this section as
 ### 2.5. Keys and Moving Platforms
 The moving platform was introduced in this part as it made the player learn that they must time their movement to escape this section. The key was there as small goal that the player has to achieve by overcoming the challange of the moving platform.
 
-![Storyboard of the Passhtrough Floor and the health pickup interaction!](DocImages/MovingplatformAndKeys1.png)
-![Storyboard of the Passhtrough Floor and the health pickup interaction!](DocImages/MovingplatformAndKeys2.png)
+![Storyboard of the Moving platform and Keys!](DocImages/MovingplatformAndKeys1.png)
+![Storyboard of the Moving platform and Keys!](DocImages/MovingplatformAndKeys2.png)
 
-### 2.8. Spikes
+### 2.6. Spikes, Weapon pickup (Staff) and Spitters
+The player now has to jump to the next platform but there are spikes in the way, if they time their jump correctly they can avoid the spikes otherwise they land on them and loose health. If they time their jump correctly they land on the Weapon pickup (Staff) but as they pickup the weapon they get damaged by the spitter but since they have the staff they can attack the spitter and kill them. The above series of events are connected and help the player in this section learn about weapons, spikes and spitters.
 
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
+![Storyboard of the Spikes, Weapon and spitter interaction!](DocImages/SpikesWeaponAndSpitter.png)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
