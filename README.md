@@ -37,9 +37,9 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
-
-### 2.2. Checkpoints
+### 2.1. Acid and 2.2. Checkpoints
+The acid and t
+ ![Storyboard of the Acid and Checkpoints interaction!](DocImages/AcidandCheckpoint.png)
 
 ### 2.3. Chompers
 
