@@ -39,6 +39,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Acid and 2.2. Checkpoints
 The acid and checkpoint were introduced at the start as it helps the player understand at the beginning that when they die they start at their last checkpoint and acid aids in that. 
+
  ![Storyboard of the Acid and Checkpoints interaction!](DocImages/AcidandCheckpoint.png)
 
 ### 2.3. Chompers
