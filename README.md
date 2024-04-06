@@ -73,9 +73,26 @@ No additional words are necessary for this section (any words should only be wit
 ![Storyboard of Section 3!](DocImages/Section3.png)
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+Iterative design can be a powerful tool in improving the level design. In this case, the iterative design helped me set goals for each iteration and achieve them by the end of each iteration. For example, while storyboarding I placed the health pickup where I thought it would be the most beneficial for the level, however by playtesting the level multiple times in multiple iterations it was revealed to me that the initial placements for the health pickup need to be changed in such way that they appear after an encounter where the player has taken or received some damage. The iterative design also helped me in deciding where to place the checkpoints, In each iteration with playtesting I found out that the best place for the checkpoints is before the next encounter or where the player has completed some obstacle. Each iteration also helped me evaluate the difficulty of that section and allowed me to adjust the difficulty curve to match the aimed player experience. 
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+In my iterative process for making each section, I started by looking at different gameplays online for platformers to take inspiration from, later, I made a storyboard for what I wanted to achieve with that particular section. Then I made a prototype section in Unity to test out the storyboard and based on the playtesting I evaluated the issues i.e. the gap to jump is too narrow that the player can walk over it.  With the evaluation I set the goals for the next iteration similarly with each iteration, I got a better knowledge and understanding of the section I wanted to design. With a refined storyboard after evaluating the previous iterations I designed a level map and started Implementing it in unity. After that, I playtested the level multiple times to find any bugs and tried to resolve them.
+
+Below are some of the earlier storyboards:
+
+![Early Storyboard of Section 1!](DocImages/EarlySection1.png)
+![Early Storyboard of Section 2!](DocImages/EarlySection2.png)
+![Early Storyboard of Section 3!](DocImages/EarlySection3.png)
+
+Changes:
+
+Section 1: I changed the height of the platform where the key is located as I found a bug where the player was able to jump to the key.
+
+Section 2:  I changed the distances from the top moving platform to the platform with the checkpoint as I found that if the platform moved too close to the other platform it decreased the game's difficulty.
+
+Section 3: I changed the location of the key door as the depth of the level was not able to fit the key door and falling on the platform after collecting the key without getting hit by the spikes was nearly impossible which would have increased the difficulty more than aimed for. 
+
+In the future iteration the placement of the enemies, health pickups, weapon pickups and checkpoints can be vastly improved. For example, the weapons in my level design are not that useful as all of my sections are more focused on obstacle avoidance.
+
 
 ## Generative AI Use Acknowledgement
 
