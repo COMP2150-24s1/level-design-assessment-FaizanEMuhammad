@@ -26,7 +26,7 @@ The level features an increasing intensity curve where there are moments of reli
 
 Each section has been designed to facilitate a gradual build where at the start of each level the player faces easier challenges compared to the later parts of the section. For example, in section three the player is introduced to a simple obstacle of jumping over the acid but as the player moves forward they need to perform more precise jumps to progress which also helps in the tension relief, the tension is high when the player is trying to make the jump but as soon as the player successfully lands the jump the tension is relieved. 
 
-Insert the section 3
+![Screenshot of Section 3!](DocImages/Drama1.png)
 
 The failure to clear the obstacle and losing health or the reward of collecting the key is organized in such a way that it adds to the intensity curve.
 
@@ -39,7 +39,7 @@ The main challenges of the level are skill-based challenges where the player has
 
 There are also stressors and other difficulties involved such as the three moving platforms from section 2 where each of the platforms is set to a different movement speed adding further timing-related stress for the player.
 
-Add moving platforms from section 2
+![Screenshot of Section 2's moving platforms!](DocImages/Challange1.png)
 
 To balance the challenges and control the difficulty curve the level design includes a gradual introduction to the challenge and increases the difficulty with further progress. An example is of the moving platforms from section 2 where the lowest platform has the slowest movement speed allowing for the player to understand and learn their objective and the middle platform has an increased speed and the last platform is the fastest, hinting at a gradual increase in difficulty.
 
@@ -53,10 +53,12 @@ The sections have been designed in such a way that the player is guided visually
 
 A hidden area with a reward has also been implemented in section 3 of the level where the player can enter and collect the health pickup as a reward.
 
-Attach the image of section 3 secret area
+![Screenshot of Section 3 Hidden Area!](DocImages/Exploration1.png)
 
 Each section has a distinct aesthetic and layout that aids in creating memorable space. For example, section 2 can be remembered by the player as the section with the acid floor and section 3 can be remembered as the underground dungeon section of the level. These sections would help the player remember these spaces even after completing the game.
 
+![Screenshot of Section 2!](DocImages/Exploration2.png)
+![Screenshot of Section 3!](DocImages/Exploration3.png)
 
 ## 2. Core Gameplay (~400 words)
 
