@@ -1,19 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: Faizan E Muhammad
+### Student number: 47752440
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
 
@@ -21,11 +10,11 @@ Example:
 
 Initially, in section 1, the player learns about the core mechanics and dynamics of the game such as movement, interaction with the different kinds of platforms and achieving the goal of collecting the key in each section. They also learn about the dynamics by combining the movements and interactable objects i.e. the interaction with the passthrough platform where the player has to use the movement S key and the space key to passthrough the platform.
 
-Insert pic of the pass-through platform interaction
+![Screenshot of the interaction with the passthrough platform!](DocImages/Discovery1.png)
 
 The player also learns by recognizing patterns in the game and developing skills to solve challenges. For example, the player learns that if they jump too early over the acid they will fall into the acid so they develop the skill to time their jumps.
 
-Pic of the initial acid interaction
+![Screenshot of the interaction with the Acid!](DocImages/Discovery2.png)
 
 The player learns about the blend of easy and hard fun with their being a progressive increase in difficulty providing the player with a satisfying player experience.
 
@@ -132,25 +121,5 @@ Section 3: I changed the location of the key door as the depth of the level was 
 
 In the future iteration the placement of the enemies, health pickups, weapon pickups and checkpoints can be vastly improved. For example, the weapons in my level design are not that useful as all of my sections are more focused on obstacle avoidance.
 
-
-## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
 
 
