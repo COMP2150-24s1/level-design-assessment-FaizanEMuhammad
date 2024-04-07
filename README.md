@@ -16,19 +16,58 @@ Example:
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+
+Initially, in section 1, the player learns about the core mechanics and dynamics of the game such as movement, interaction with the different kinds of platforms and achieving the goal of collecting the key in each section. They also learn about the dynamics by combining the movements and interactable objects i.e. the interaction with the passthrough platform where the player has to use the movement S key and the space key to passthrough the platform.
+
+Insert pic of the pass-through platform interaction
+
+The player also learns by recognizing patterns in the game and developing skills to solve challenges. For example, the player learns that if they jump too early over the acid they will fall into the acid so they develop the skill to time their jumps.
+
+Pic of the initial acid interaction
+
+The player learns about the blend of easy and hard fun with their being a progressive increase in difficulty providing the player with a satisfying player experience.
+
+The above practices help in facilitating learning for the player in a way that good design practices are followed.
+
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+The level features an increasing intensity curve where there are moments of relief in each section of the game. 
+
+Each section has been designed to facilitate a gradual build where at the start of each level the player faces easier challenges compared to the later parts of the section. For example, in section three the player is introduced to a simple obstacle of jumping over the acid but as the player moves forward they need to perform more precise jumps to progress which also helps in the tension relief, the tension is high when the player is trying to make the jump but as soon as the player successfully lands the jump the tension is relieved. 
+
+Insert the section 3
+
+The failure to clear the obstacle and losing health or the reward of collecting the key is organized in such a way that it adds to the intensity curve.
+
+The combination of these design choices facilitates increasing yet modulating intensity.
+
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+
+The main challenges of the level are skill-based challenges where the player has to move the player precisely with timed jumps and strategically position the player for the start point of the jump if the player is positioned too far they might not get their desired result from the jump. 
+
+There are also stressors and other difficulties involved such as the three moving platforms from section 2 where each of the platforms is set to a different movement speed adding further timing-related stress for the player.
+
+Add moving platforms from section 2
+
+To balance the challenges and control the difficulty curve the level design includes a gradual introduction to the challenge and increases the difficulty with further progress. An example is of the moving platforms from section 2 where the lowest platform has the slowest movement speed allowing for the player to understand and learn their objective and the middle platform has an increased speed and the last platform is the fastest, hinting at a gradual increase in difficulty.
+
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+The sense of autonomy and the invitation to exploration have been incorporated using multiple design choices.
+
+Multiple interactive elements have been used in each section of the level i.e. the moving platform and pass-through platforms which encourage the player to interact with the environment around them and also explore different strategies.
+
+The sections have been designed in such a way that the player is guided visually to the goal of that section i.e. collecting the keys. Each section has a clear pathway that the player can comprehend and manoeuvre to achieve the goal.
+
+A hidden area with a reward has also been implemented in section 3 of the level where the player can enter and collect the health pickup as a reward.
+
+Attach the image of section 3 secret area
+
+Each section has a distinct aesthetic and layout that aids in creating memorable space. For example, section 2 can be remembered by the player as the section with the acid floor and section 3 can be remembered as the underground dungeon section of the level. These sections would help the player remember these spaces even after completing the game.
+
 
 ## 2. Core Gameplay (~400 words)
 
